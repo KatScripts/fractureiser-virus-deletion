@@ -1,5 +1,5 @@
 # fractureiser-virus-deletion
-Deletes all know files that may be connected to the fractureiser  virus
+Deletes all known files that may be connected to the fractureiser  virus
 
 RUN IN administrator mode. OR The program will just shut down and do nothing.
 
